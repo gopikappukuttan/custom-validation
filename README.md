@@ -1,4 +1,4 @@
-## Exercise 5: Custom Validation Logic
+## Exercise 3: Custom Validation Logic
 
 ## Project structure
 
